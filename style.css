@@ -1,0 +1,242 @@
+body{
+    
+    /* margin: 0px 80px 0px; */
+    /* border: 2px solid red; */
+}
+.AA{
+    background-color: bisque;
+    padding: 0px 100px 0px;
+}
+.A{
+    display: flex;
+    gap: 50%;
+    /* border: 2px solid black; */
+    
+    
+}
+nav{
+    display: flex;
+    gap: 40px;
+    /* border: 2px solid red; */
+    align-items: center;
+    
+}
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 400;
+}
+.m{
+    font-weight: 700;
+    font-size: 25px;
+    /* border: 2px solid blue; */
+    text-align: center;
+}
+.m h1{
+    font-size: 46px;
+    font-weight: 800;
+}
+.m p{
+    font-size: 12px;
+    font-weight: 400;
+    /* border: 2px solid yellow; */
+    /* text-align: center; */
+    width: 550px;
+    margin-left: 270px;
+    /* margin-bottom: 15px; */
+}
+.btn{
+    /* height: 20%; */
+    width: 15%;
+    /* text-align: center; */
+    color: #FFFFFF;
+    /* border: 2px solid red; */
+    border-radius: 9PX;
+    padding: 10px 5px;
+    background-color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 430px;
+    /* margin-top: 10px; */
+}
+.m img{
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+main{
+    background-color: azure;
+}
+.Ba,.Bb{
+    
+    padding: 0px 100px 0px;
+    /* border: 2px solid gold; */
+
+}
+
+.Ba img{
+    width: 100%;
+    /* border: 2px solid rgb(255, 17, 0); */
+    border-radius: 8px;
+    
+    
+}
+.I{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 8px;
+    /* border: 2px solid rgb(0, 0, 0); */
+    padding:16px;
+    width: 50%;
+}
+.containI{
+    display: flex;
+    gap: 20px;
+    
+}
+.T{
+    /* border: 2px solid purple; */
+    width: 50%;
+    margin-top: 10%;
+}
+.btn2{
+    border-radius: 9PX;
+    padding: 10px 5px;
+    background-color: #FD6E0A;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    color: #FFFFFF;
+    width: 25%;
+    
+    
+}
+.Bb{
+    /* border: 2px solid orangered; */
+
+}
+.containII{
+    display: flex;
+    gap: 60px;
+}
+.Tb{
+    width: 45%;
+    /* border: 2px solid orangered; */
+}
+
+.containII img{
+    width: 100%;
+}
+.nx{
+    display: flex;
+    gap: 2px;
+    /* border: 2px solid fuchsia; */
+}
+.nx h1{
+    font-size: 33px;
+    font-weight: 700;
+}
+.Tb p{
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 25px;
+
+}
+.s1, .s2, .s3 ,.s4{
+    /* border: 2px solid orangered; */
+    border-radius: 7px;
+    padding: 15px ;
+    background-color:#FFFFFF;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+
+}
+.as{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.Bc{
+    margin-top: 80px;
+    padding: 0 100px 0;
+    /* border: 2px solid orangered; */
+    
+}
+.ad{
+    text-align: left;
+}
+.ad p{
+    font-size: 12px;
+    font-weight: 400;
+    margin-bottom: 25px;
+
+}
+.ad h1{
+    font-size: 33px;
+    font-weight: 700;
+
+}
+.a1,.a2,.a3,.a4{
+    border: 2px solid #FD6E0A;
+    width: 15%;
+    height: 20%;
+    border-radius: 8px;
+    padding: 14px;
+}
+.a1:hover,.a2:hover,.a3:hover,.a4:hover{
+    background-color: aquamarine;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 0;
+    border-radius: 50%;
+
+}
+.Xc{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.Ca{
+    padding: 0 100px 0;
+    /* background-color: azure; */
+}
+.hj{
+    background-color: azure;
+}
+.last1{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+.last1 h1{
+    font-size: 33px;
+    font-weight: 700;
+
+}
+.last2{
+    display: flex;
+    gap: 6px;
+    justify-content: space-around;
+    /* border: 2px solid black; */
+    padding-top: 60px;
+    margin-bottom: 180px;
+}
+.Ca img{
+    
+    /* border: 2px solid #FD6E0A; */
+    padding: 10px;
+}
+.last3{
+    border: 2px solid #FD6E0A;
+    text-align: center;
+    background-color: bisque;
+    border-radius: 5px;
+    margin-bottom: 180px;
+}
+footer{
+    border: 2px solid white;
+    background-color: azure;
+}
+
